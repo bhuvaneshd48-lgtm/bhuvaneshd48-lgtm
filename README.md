@@ -4,23 +4,29 @@ Focusing on Full-Stack Systems, Agentic AI, and Rapid Hackathon Prototyping.
 ---
 
 ### 🚀 Technical Focus
-- 🛠️ **Systems & Rapid Prototyping:** Building functioning full-stack MVPs and responsive interfaces under sprint constraints.
-- 🤖 **AI & Agentic Workflows:** Exploring distributed agent orchestration, observability, and security guardrails.
-- 🎨 **UI/UX Engineering:** High-fidelity prototyping and design systems using Figma and Anti Gravity Pro.
+- 🛠️ **Rapid Prototyping & MVP Builds:** Engineering functional prototypes and responsive frontends under sprint constraints.
+- 🎨 **UI/UX Engineering:** High-fidelity interactive design and component systems using Figma and Anti Gravity Pro.
+- 🤖 **Explorations:** Agentic AI workflows, system observability, and civic-tech solutions.
 
 ---
 
 ### 💻 Tech Stack
 - **Languages:** Python, JavaScript, TypeScript, C/C++
-- **Frameworks & Libraries:** React.js, Next.js, FastAPI, Tailwind CSS
-- **Databases & Tools:** PostgreSQL, Firebase, Git, Docker, Figma
+- **Frontend & Design:** React.js, Next.js, Tailwind CSS, Figma
+- **Backend & Data:** Node.js, FastAPI, PostgreSQL, Firebase, Git
 
 ---
 
-### 🏆 Hackathons & Projects
-- **Protocol X (Prompt Engineering & Vibe Coding):** Ranked #68 of 201 teams (`protocol-x-prototype`).
-- **Smart India Hackathon (SIH):** College internal selection round prototype.
+### 🏆 Hackathons & Experience
+- **Protocol X (Prompt Engineering & Vibe Coding):** Ranked **#68 of 201 teams** (Scored 90/100 in UI/UX & Impact).
 - **Inception 2.0 Hackathon (BMSIT):** On-campus hackathon participant & solution builder.
+- **Smart India Hackathon (SIH):** Internal collegiate selection round prototype builder.
+
+---
+
+### 📂 Featured Repositories
+- 🔗 **[Protocol X Prototype](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** — Interactive prototype with responsive state transitions.
+- 🔗 **[SIH Project](https://github.com/YOUR_USERNAME/YOUR_SIH_REPO_NAME)** — Civic problem-solving prototype for SIH internal rounds.
 
 ---
 
