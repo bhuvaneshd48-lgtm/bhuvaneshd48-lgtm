@@ -20,7 +20,7 @@ Focusing on Full-Stack Systems, Agentic AI, and Rapid Hackathon Prototyping.
 ### 🏆 Hackathons & Projects
 - **Protocol X (Prompt Engineering & Vibe Coding):** Ranked #68 of 201 teams (`protocol-x-prototype`).
 - **Smart India Hackathon (SIH):** College internal selection round prototype.
-- **L&T TECHgium 2026:** Lead builder for Autonomous Multi-Agent Control Tower (#56).
+- **Inception 2.0 Hackathon (BMSIT):** On-campus hackathon participant & solution builder.
 
 ---
 
