@@ -27,7 +27,7 @@ Focusing on Full-Stack Systems, Agentic AI, and Rapid Hackathon Prototyping.
 ### 📂 Featured Repositories
 - 🔗 **[Protocol X Prototype](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)** — Interactive prototype with responsive state transitions.
 - 🔗 **[SIH Project](https://github.com/YOUR_USERNAME/YOUR_SIH_REPO_NAME)** — Civic problem-solving prototype for SIH internal rounds.
-
+- 🔗 **[KisanLens — Smart Agriculture System](https://github.com/bhuvaneshd48-lgtm/kisanlens)** — Zero-text, voice-and-vision multimodal advisory web app ([Live Demo](https://kisanlens.vercel.app)).
 ---
 
 ### 📬 Contact
